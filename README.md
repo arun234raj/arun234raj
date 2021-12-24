@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arun234raj
 - 👀 I’m interested in codding and a cyber security enthusiast 
-- 🌱 I’m currently learning about bugs
+- 🌱 I’m currently learning about networks
 - 💞️ I’m looking to collaborate on many things ...
 - 📫 ........................... 
 
